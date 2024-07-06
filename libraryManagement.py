@@ -125,7 +125,7 @@ def main():
         else:
             print("Please choose the right option")
 
-print("\033[1;37;44m Developed by Koushik Debnath \033[0m")
+print("\033[1;37;44m Developed by Sarah Khatun \033[0m")
 main()
 
 conn.commit()
